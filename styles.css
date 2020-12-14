@@ -1,0 +1,24 @@
+.center {
+  margin: auto;
+  width: 90%;
+    height: auto;
+  border: 3px solid #73AD21;
+    display: flex;
+    justify-content: center;
+}
+body{
+     background-color: lightblue;
+}
+img{
+height: 150px;
+
+}
+
+.image:hover{
+border: 1px solid black;
+}
+.inputCenter{
+display: flex;
+justify-content: center;
+
+}
